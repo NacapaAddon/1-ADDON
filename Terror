@@ -7,7 +7,7 @@
 <genre>Terror, Mistério
 1h 34m</genre>
 </item>
-
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[B]TESTE  - [COLOR yellow](ANO LANÇAMENTO)[/COLOR] - [COLOR lime](RESOLUÇÃO)[/COLOR] - DUBLADO [/B]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1FUJRdJAQxzRAAvCWHmNcO8Y8g1TUU-ZD/view?usp=sharing</link>
@@ -16,13 +16,23 @@
 <info></info>
 <genre></genre>
 </item>
-
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[COLOR gold][B]A Hora do Pesadelo[/B] [/COLOR] - [COLOR ivory](1984)[/COLOR] - [COLOR lime](1080p)[/COLOR] [COLOR white][B]DUBLADO[/B] [/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10a-67C997dedLoTGp2f6VDyZi3qeFwzG/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/mSXP80BTB8cVproeIAIsBusc2U8.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/67qMLI58HmQ5ArBsTVBxG4KHuRJ.jpg</fanart>
-<info>Um grupo de adolescentes tem pesadelos horríveis, onde são atacados por um homem deformado com garras de aço. Ele apenas aparece durante o sono e, para escapar, é preciso acordar. Os crimes vão ocorrendo seguidamente, até que se descobre que o ser misterioso é na verdade Freddy Krueger (Robert Englund), um homem que molestou crianças na rua Elm e que foi queimado vivo pela vizinhança. Agora Krueger pode retornar para se vingar daqueles que o mataram, através do sono.</info>
+<info>[B]Sinopse:[/B]  Um grupo de adolescentes tem pesadelos horríveis, onde são atacados por um homem deformado com garras de aço. Ele apenas aparece durante o sono e, para escapar, é preciso acordar. Os crimes vão ocorrendo seguidamente, até que se descobre que o ser misterioso é na verdade Freddy Krueger (Robert Englund), um homem que molestou crianças na rua Elm e que foi queimado vivo pela vizinhança. Agora Krueger pode retornar para se vingar daqueles que o mataram, através do sono.</info>
 <genre>Terror
 1h 31m</genre>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR gold][B]A Hora do Pesadelo 2: A Vingança de Freddy[/B] [/COLOR] - [COLOR ivory](1985)[/COLOR] - [COLOR lime](1080p)[/COLOR] [COLOR white][B]DUBLADO[/B] [/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/10a-67C997dedLoTGp2f6VDyZi3qeFwzG/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/uHFq7fGucKBm4DeXf84U5ibLhK3.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/6at7Oj5ADDUyaQbr3it3N4lgL8q.jpg</fanart>
+<info>[B]Sinopse:[/B]  Uma nova família se muda para a casa em Elm Street, e logo os garotos estão tendo pesadelos com Freddy Krueger, o falecido assassino de crianças. Desta vez, ele tenta tomar o corpo de um adolescente para continuar matando no mundo real.</info>
+<genre>Terror
+1h 27m</genre>
 </item>
