@@ -8,7 +8,7 @@
 1h 31m</genre>
 </item>
 <item>
-<title>[COLOR gold][B]Alien, O 8º Passageiro[/B] [/COLOR] - [COLOR ivory](1979)[/COLOR] - [COLOR lime](1080p)[/COLOR] [COLOR white][B]DUBLADO[/B] [/COLOR]</title>
+<title>[COLOR gold][B]Alien: O 8º Passageiro[/B] [/COLOR] - [COLOR ivory](1979)[/COLOR] - [COLOR lime](1080p)[/COLOR] [COLOR white][B]DUBLADO[/B] [/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1LTb635qc1_7AqX1mD6YNZMpMkQxesr-S/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/t0VpOjqwobTpQK2SEZpXlqt5cqY.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/AmR3JG1VQVxU8TfAvljUhfSFUOx.jpg</fanart>
@@ -17,6 +17,16 @@
 1h 57m  </genre>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR gold][B]Aliens: O Resgate[/B] [/COLOR] - [COLOR ivory](1986)[/COLOR] - [COLOR lime](1080p)[/COLOR] [COLOR white][B]DUBLADO[/B] [/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1atAOYQd9TOIxd97I9DnxEE5UHGMJKM_7/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/1N0Jfz40715CrtvU8e5KkbrOxzJ.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/sJfDC6aPHO8xAHJ8FDvte9TQxbG.jpg</fanart>
+<info>[B]Sinopse:[/B]  Depois de dormir por 57 anos, a única sobrevivente de uma tragédia espacial descobre que o local onde tudo aconteceu com sua nave foi colonizado e, apesar das pressões, decide retornar para salvar as 70 famílias lá existentes.</info>
+<genre> Ficção científica
+2h 17m </genre>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[COLOR gold][B]Prometheus[/B] [/COLOR] - [COLOR ivory](2012)[/COLOR] - [COLOR lime](1080p)[/COLOR] [COLOR white][B]DUBLADO[/B] [/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1bYC_xHv4w2QLgymyOf4RCIIgTmkWKadF/view</link>
@@ -117,6 +127,28 @@
 2h 34m </genre>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR gold][B]Transformers: A Era da Extinção[/B] [/COLOR] - [COLOR ivory](2014)[/COLOR] - [COLOR lime](720p)[/COLOR] [COLOR white][B]DUBLADO[/B] [/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=  </link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/2sB6s7Com14dYSGjO3sA3FF4QI7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/ojwiCGkC7Bv7Ol7jDSkQbTGBY3I.jpg</fanart>
+<info>[B]Sinopse:[/B]  Após a batalha entre os Autobots e os Decepticons, que arrasou Chicago, os gigantescos robôs alienígenas desapareceram. Atualmente, eles são caçados pelos humanos, que não desejam passar por apuros novamente. Porém, enquanto a humanidade tenta se recuperar dessa terrível batalha, uma nova ameaça paira sobre a Terra.</info>
+<genre> Ficção científica, Ação, Aventura
+2h 45m </genre>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR gold][B]Transformers: O Último Cavaleiro[/B] [/COLOR] - [COLOR ivory](2017)[/COLOR] - [COLOR lime](720p)[/COLOR] [COLOR white][B]DUBLADO[/B] [/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/12436rBhmR4CQcFinzmfoOfvCgHsQOCGL/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7oD84CWOoDhEB4p1WVWNfxjwtf.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/1n00NlOGRFZVs8coBxyZLm5l4EC.jpg</fanart>
+<info>[B]Sinopse:[/B]  Optimus Prime encontra seu planeta natal, Cybertron, agora um planeta morto, e descobre que foi responsável por matá-lo. Ele encontra uma maneira de trazer o planeta de volta à vida, mas para isso precisa encontrar um artefato que está na Terra.</info>
+<genre> Ficção científica, Thriller, Aventura
+2h 29m </genre>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+
 
 <item>
 <title>[COLOR gold][B]Extinção[/B] [/COLOR] - [COLOR ivory](2018)[/COLOR] - [COLOR lime](720p)[/COLOR] [COLOR white][B]DUBLADO[/B] [/COLOR]</title>
