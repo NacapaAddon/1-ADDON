@@ -265,21 +265,6 @@ Paralelamente Rigg precisa lidar com o jogo criado, tendo apenas 90 minutos para
 1h 32m </genre>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-
-
-
-<item>
-<title>[COLOR gold][B]Invasão Zumbi[/B] [/COLOR] - [COLOR ivory](2016)[/COLOR] - [COLOR lime](720p)[/COLOR] [COLOR white][B]DUBLADO[/B] [/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1O7vTDKN1ZLGzboa0beE_sa26tvff3zx6/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QqHtwk0oHYed26zra9WGQGyBSm.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/original/jpdgqnUBpsb099uSnj8A6UEOQCC.jpg</fanart>
-<info>[B]Sinopse:[/B]  </info>
-<genre> Terror, Thriller
-1h 58m </genre>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[COLOR gold][B]Hellraiser - Renascido do Inferno[/B] [/COLOR] - [COLOR ivory](1987)[/COLOR] - [COLOR lime](720P)[/COLOR] [COLOR white][B]DUBLADO[/B] [/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1gTLbhgYF3HTizs9o3m1BgmOjLglQEw2k/view</link>
@@ -380,6 +365,24 @@ Paralelamente Rigg precisa lidar com o jogo criado, tendo apenas 90 minutos para
 1h 21m </genre>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
+<item>
+<title>[COLOR gold][B]Maria e João - O Conto das Bruxas [/B] [/COLOR] - [COLOR ivory](2020)[/COLOR] - [COLOR lime](720p)[/COLOR] [COLOR white][B]DUBLADO[/B] [/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1j6EUd96fCKa13chDTQpS2nSfLMKADZXv/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/nxpfEaqtBmxisC7CKgCKYv6ST5m.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/en1XAePgWqNSXb82luUMmo5u3cF.jpg</fanart>
+<info>[B]Sinopse:[/B]  Há muito tempo, em um campo distante, Maria (Sophia Lillis) leva seu irmãozinho João (Sammy Leakey) a um bosque escuro, em uma busca desesperada por comida e trabalho. Quando eles encontram Holda (Alice Krige), uma misteriosa mulher que reside na floresta, os dois irmãos descobrem que nem todo conto de fadas termina bem.</info>
+<genre> Terror, Fantasia, Thriller
+1h 28m </genre>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR gold][B]Invasão Zumbi[/B] [/COLOR] - [COLOR ivory](2016)[/COLOR] - [COLOR lime](720p)[/COLOR] [COLOR white][B]DUBLADO[/B] [/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1O7vTDKN1ZLGzboa0beE_sa26tvff3zx6/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/QqHtwk0oHYed26zra9WGQGyBSm.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/original/jpdgqnUBpsb099uSnj8A6UEOQCC.jpg</fanart>
+<info>[B]Sinopse:[/B]  </info>
+<genre> Terror, Thriller
+1h 58m </genre>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
