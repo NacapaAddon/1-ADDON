@@ -1,5 +1,15 @@
 G-Driver
 <item>
+<title>[COLOR gold][B]Oro - A Cidade Perdida[/B] [/COLOR] - [COLOR ivory](2017)[/COLOR] - [COLOR lime](1080p)[/COLOR] [COLOR white][B]DUBLADO[/B] [/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Wmm4JYdFpdpt-hnGaLG2BA3gbeirZCaH/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5L8ni4ll8ZwYknpiocPgiapqbUt.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/aPX1RYLEDwZFVzsSsFIlzxbT7Za.jpg</fanart>
+<info>[B]Sinopse:[/B]  Aventura de época inspirada nos conquistadores espanhóis do século XVI, Lope de Aguirre e Nuñez de Balboa, que empreenderam uma expedição através da selva amazônica em busca de uma cidade mítica, que acreditavam ser feita totalmente de ouro.</info>
+<genre> Aventura
+1h 42m </genre>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[COLOR gold][B]Harry Potter e a Pedra Filosofal[/B] [/COLOR] - [COLOR ivory](2001)[/COLOR] - [COLOR lime](720p)[/COLOR] [COLOR white][B]DUBLADO[/B] [/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/17tCRY7czfFAWRjCg5vfGGwhJ0_v8_YNb/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/qnw9610ojLT0jU3lMSZOAFttt1e.jpg</thumbnail>
@@ -130,17 +140,6 @@ G-Driver
 1h 59m </genre>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-<item>
-<title>[COLOR gold][B]Dungeons & Dragons: A Aventura Começa Agora[/B] [/COLOR] - [COLOR ivory](2000)[/COLOR] - [COLOR lime](1080p)[/COLOR] [COLOR white][B]DUBLADO[/B] [/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15x_zLD3fieeHmkMQj3sQfcgYeb_l1gPA/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7zAnmdyCDm1iGdb6I3FCNifFIdg.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/zOztSuQUuXrVmvkzpFFBCrrB2eI.jpg</fanart>
-<info>[B]Sinopse:[/B]  No Reino de Izmer, mágicos usam seus poderes para dominar a Terra. Savina, uma imperatriz cheia de juventude, está determinada a usar seus poderes em prol da justiça e da prosperidade. Entretanto, ela é deposta por um diabólico mágico e precisa controlar os Dragões Vermelhos para reaver o trono.</info>
-<genre> Aventura, Fantasia, Ficção científica
-1h 47m </genre>
-</item>
-<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
                                                  >>>>>>>>>>>>> SENHOR DOS ANEIS <<<<<<<<<<<
 <item>
 <title>[COLOR gold][B]O Senhor dos Anéis: A Sociedade do Anel [/B] [/COLOR] - [COLOR ivory](2001)[/COLOR] - [COLOR lime](720p)[/COLOR] [COLOR white][B]DUBLADO[/B] [/COLOR]</title>
@@ -224,15 +223,45 @@ G-Driver
 2h 9m </genre>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
-
+                                                          >>>>>>>> INDIANA JONES <<<<<<<<
 <item>
-<title>[COLOR gold][B]Oro - A Cidade Perdida[/B] [/COLOR] - [COLOR ivory](2017)[/COLOR] - [COLOR lime](1080p)[/COLOR] [COLOR white][B]DUBLADO[/B] [/COLOR]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Wmm4JYdFpdpt-hnGaLG2BA3gbeirZCaH/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/5L8ni4ll8ZwYknpiocPgiapqbUt.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/aPX1RYLEDwZFVzsSsFIlzxbT7Za.jpg</fanart>
-<info>[B]Sinopse:[/B]  Aventura de época inspirada nos conquistadores espanhóis do século XVI, Lope de Aguirre e Nuñez de Balboa, que empreenderam uma expedição através da selva amazônica em busca de uma cidade mítica, que acreditavam ser feita totalmente de ouro.</info>
-<genre> Aventura
-1h 42m </genre>
+<title>[COLOR gold][B]Indiana Jones e os Caçadores da Arca Perdida[/B] [/COLOR] - [COLOR ivory](1981)[/COLOR] - [COLOR lime](720p)[/COLOR] [COLOR white][B]DUBLADO[/B] [/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1zx4tqXKRUtwJamewsH3awLHfMvlFm6q2/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/crTawmZ7K9erVTm2UgznJ18hoL7.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/cmNZwsSOEngJWCUZ1BxNQsoWrcC.jpg</fanart>
+<info>[B]Sinopse:[/B]  Em 1936, o arqueólogo Indiana Jones (Harrison Ford) é contratado para encontrar a Arca da Aliança, que segundo as escrituras bíblicas conteria "Os Dez Mandamentos" que Deus revelou a Moisés no Monte Horeb. Mas como a lenda diz que o exército que a possuir será invencível, Indiana Jones terá um adversário de peso na busca pela arca perdida: o próprio Adolf Hitler.</info>
+<genre> Aventura, Ação
+1h 55m </genre>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR gold][B]Indiana Jones e o Templo da Perdição[/B] [/COLOR] - [COLOR ivory](1984)[/COLOR] - [COLOR lime](720p)[/COLOR] [COLOR white][B]DUBLADO[/B] [/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1MSFyLc1IVHrwamaypUvgXKowVp-e87xF/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/we7AZegHzRAe2sIui4F74dAJ2b.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w500_and_h282_face/7EPxgZzUszVGw9nvVPpXq79rZqw.jpg</fanart>
+<info>[B]Sinopse:[/B]  Em 1935, o professor, arqueólogo e aventureiro Indiana Jones (Harrison Ford) tem uma nova missão: resgatar as pedras roubadas por um feiticeiro e libertar crianças escravizadas. Para tanto, enfrenta os poderes mágicos e o fanatismo de um culto que sacrifica seres humanos.</info>
+<genre> Aventura, Ação
+1h 58m </genre>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR gold][B]Indiana Jones e a Última Cruzada[/B] [/COLOR] - [COLOR ivory](1989)[/COLOR] - [COLOR lime](720p)[/COLOR] [COLOR white][B]DUBLADO[/B] [/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1HNNNSnFaL8y3vdvtOStpf_6Br4Zl6O5D/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/vTBem2ZGmLKVgaD3EtJUfMQ9AH1.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/bqXpbnN0VmoXaysLhSKd7tLRR3g.jpg</fanart>
+<info>[B]Sinopse:[/B]  O arqueólogo Indiana Jones (Harrisson Ford) tem acesso à um misterioso envelope que contém informações sobre a localização do lendário Santo Graal, o cálice que Jesus Cristo teria utilizado na Última Ceia. Quando seu pai, o professor Henry Jones (Sean Connery), é sequestrado pelos nazistas, o aventureiro irá embarcar numa missão perigosa para salvá-lo e impedir que a relíquia sagrada caia em mãos erradas.</info>
+<genre> Aventura, Ação
+2h 7m </genre>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
+<title>[COLOR gold][B]Indiana Jones e o Reino da Caveira de Cristal[/B] [/COLOR] - [COLOR ivory](720p)[/COLOR] - [COLOR lime](720p)[/COLOR] [COLOR white][B]DUBLADO[/B] [/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Xm-bE0lF2HGpmLZNneOpfiM_AFfZFRZU/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ftcnTl9gExKXtmDkOCx7ztgp3Tz.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/nYlIeYdPjpkgmJBaZW8yDLnG89M.jpg</fanart>
+<info>[B]Sinopse:[/B]  Durante a Guerra Fria, Indiana Jones e o jovem Mutt buscam a Caveira de Cristal, um objeto místico de grande valor, mas logo percebem que não estão sozinhos. Soviéticos liderados pela cruel Irina Spalko também querem o objeto para tentar dominar o mundo através dele.</info>
+<genre> Aventura, Ação
+2h 2m </genre>
 </item>
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
@@ -241,6 +270,32 @@ G-Driver
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>[COLOR gold][B]Dungeons & Dragons: A Aventura Começa Agora[/B] [/COLOR] - [COLOR ivory](2000)[/COLOR] - [COLOR lime](1080p)[/COLOR] [COLOR white][B]DUBLADO[/B] [/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/15x_zLD3fieeHmkMQj3sQfcgYeb_l1gPA/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/7zAnmdyCDm1iGdb6I3FCNifFIdg.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/zOztSuQUuXrVmvkzpFFBCrrB2eI.jpg</fanart>
+<info>[B]Sinopse:[/B]  No Reino de Izmer, mágicos usam seus poderes para dominar a Terra. Savina, uma imperatriz cheia de juventude, está determinada a usar seus poderes em prol da justiça e da prosperidade. Entretanto, ela é deposta por um diabólico mágico e precisa controlar os Dragões Vermelhos para reaver o trono.</info>
+<genre> Aventura, Fantasia, Ficção científica
+1h 47m </genre>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <item>
 <title>[COLORgold][B]Fúria de Titãs[/B] [/COLOR] - [COLOR ivory](1981)[/COLOR] - [COLOR lime](1080p)[/COLOR] [COLOR][B]DUBLADO [/B] [/COLOR]</title>
 <link>https://redecanais.azureedge.net/RCFServer5/ondemand/FURIDTAS1981.mp4?attachment=true</link>
