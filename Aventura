@@ -1,5 +1,15 @@
 G-Driver
 <item>
+<title>[COLOR gold][B]A Lenda[/B] [/COLOR] - [COLOR ivory](1985)[/COLOR] - [COLOR lime](720p)[/COLOR] [COLOR white][B]DUBLADO[/B] [/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/102BIAZbbfwbewf7OBF7Z5mPEWFAEfdys/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/m1ASnL0HTUFHjViAv1IY204Cav5.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/np5BLAdBZimM9sbhl11NtsVryQQ.jpg</fanart>
+<info>[B]Sinopse:[/B] O Senhor das Trevas quer criar a noite eterna, destruindo o último dos unicórnios e se casando com a princesa das fadas. Para enfrentá-lo, Jack convoca seus aliados elfos e parte para uma batalha bastante disputada. </info>
+<genre> Aventura, Fantasia
+1h 34m </genre>
+</item>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<item>
 <title>[COLOR gold][B]O Caçador e a Rainha do Gelo[/B] [/COLOR] - [COLOR ivory](2016)[/COLOR] - [COLOR lime](720p)[/COLOR] [COLOR white][B]DUBLADO[/B] [/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1v8JenAA1_RP7GNb6Ygl21IhV2xEw2s9c/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/zhLNL9wSduoqDoDFZnT98qPjt5c.jpg</thumbnail>
