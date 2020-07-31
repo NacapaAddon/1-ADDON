@@ -1,11 +1,4 @@
-<item>
-<title>[COLOR gold][B]RBS[/B] [/COLOR] - [COLOR ivory](TV)[/COLOR] - [COLOR lime](RS)[/COLOR]</title>
-<link>https://live.esporteone.com/RBS/video.m3u8?</link>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT69NhZ7iWMh1I9JCjDYgzecjxaQ6EnnrkSaQ&usqp=CAU</thumbnail>
-<fanart></fanart>
-<info>https://redeglobo.globo.com/rs/rbstvrs/programacao/  </info>
-<epg>https://redeglobo.globo.com/rs/rbstvrs/programacao/</epg>
-</item>
+
 <channels>
 <channel>
 <name>[COLOR goldenrod]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR khaki]|||[/COLOR] [COLOR white] [COLOR][B]CANAIS ABERTOS[/B][/COLOR] [COLOR yellow][B]A[/B][/COLOR] [COLOR lime]a[/COLOR] [COLOR yellow][B]Z[/B][/COLOR][/COLOR] [COLOR khaki]|||[/COLOR][COLOR gold]|||[/COLOR][COLOR goldenrod]|||[/COLOR]</name>
